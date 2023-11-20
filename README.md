@@ -7,7 +7,7 @@
 <br>
 
 <p>
-  <b>CSE-201: Structure Programming</b><br>
+  <b>CSE-201: Data Structure & Algorithm </b><br>
   Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C".
 </p>  
 
@@ -21,11 +21,11 @@
   </tr>
   <tr>
     <td>CSE-201</td>
-    <td>Data Structure & Algorithms</td>
+    <td>Data Structure & Algorithm</td>
   </tr>
   <tr>
     <td>CSE-211</td>
-    <td>Discrete Mathematics</td>
+    <td>Computer Organization</td>
   </tr>
   <tr>
     <td>STAT-203</td>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>MATH-204</td>
-    <td>Ordinary Differential Equation</td>
+    <td>Ordinary Differential Equations</td>
   </tr>
   <tr>
     <td>GE-212</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>SE-206</td>
-    <td>Object Oriented Concept-I</td>
+    <td>Object Oriented Concepts-I</td>
   </tr>
 </table>
   
