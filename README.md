@@ -8,7 +8,7 @@
 
 <p>
   <b>CSE-201: Data Structure & Algorithm </b><br>
-  Here is all codes in C language. These codes are the example and exercise of the book "Teach Yourself C".
+  Here is all codes in C language. These codes are the implementation of searching & sorting, data structure like linked list, stack, queue, tree, graph".
 </p>  
 
 <br>
